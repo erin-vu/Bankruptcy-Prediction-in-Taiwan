@@ -25,14 +25,18 @@ This project uses exploratory data analysis in order to manipulate and understan
 ## Results
 
 We iterated through our models and saw that XGBoost performed favorably for our business problem. Although we were able to extract the magnitude of the feature importances using XGBoost, we found that our XGBoost model performed worse on our testing data. Our precision score decreased from 95% to 39%.
-![precision scores](/images/precision_score_bar.jpg)
+
+![precision scores](/images/precision_score_bar_normal.jpg)
+
 ![feature importances](/images/xgboost_top_features.jpg)
 
 ## Final Analysis and Conclusion
+
 We tuned our models towards precision to minimize Type I errors, also known as false positives. The model with the highest training precision score was our XGBoost model. When we ran this model on our testing set, it did not perform as well as on the training set. This might be because we did not include the threshold into cross validation. 
 
 
 ### Next Steps
+
 Further analysis we could pursue to better predict bankruptcy in Taiwan: 
 - We can manually run Stratified K Folding with threshold implementation to fix the threshold issue
 - Add data and information such as dates of bankruptcy
