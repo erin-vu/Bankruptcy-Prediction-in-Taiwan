@@ -23,3 +23,24 @@ This project uses exploratory data analysis in order to manipulate and understan
 ## Results
 
 ![precision scores](/images/precision_score_bar.jpg)
+
+
+## Final Analysis and Conclusion
+We tuned our models towards precision to minimize Type I errors, also known as false positives. The model with the highest training precision score was our XGBoost model. When we ran this model on our testing set, it did not perform as well as on the training set. This might be because we did not include the threshold into cross validation. 
+
+
+### Next Steps
+Further analysis we could pursue to better predict bankruptcy in Taiwan: 
+- We can manually run Stratified K Folding with threshold implementation to fix the threshold issue
+- Add data and information such as dates of bankruptcy
+- Continue to think of new parameters and different modelling strategies 
+
+# 7. For More Information
+
+Please review our full analysis in our [Jupyter Notebook](https://github.com/ekvu/phase-3_project/blob/main/Final%20Notebook.ipynb) and our [presentation](). The data can be found in [/data](https://github.com/ekvu/phase-3_project/tree/main/data), images in [/images](https://github.com/ekvu/phase-3_project/tree/main/images), and our working notebooks in [/dev_notebooks](https://github.com/ekvu/phase-3_project/tree/main/working_notebooks).
+
+For additional questions, please contact:
+
+Ramil Chaimongkolbutr at ramil.ming@gmail.com, [LinkedIn](linkedin.com/in/ramilc), and [GitHub](github.com/ramilchai)
+
+Erin Vu at erin.vu94@gmail.com and [LinkedIn](linkedin.com/in/erin-vu)
