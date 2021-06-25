@@ -59,4 +59,4 @@ Erin Vu at erin.vu94@gmail.com and [LinkedIn](linkedin.com/in/erin-vu)
     ├── working_notebooks
     ├── README.md
     ├── Taiwanese_Bankruptcy_Presentation.pdf
-    └── Final_Notebook.ipynb
+    └── Taiwanese_Bankruptcy_Final_Notebook.ipynb
