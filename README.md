@@ -6,7 +6,7 @@ By Ramil Chaimongkolbutr, Erin Vu
 
 ## Overview
 
-We will be using data from the Taiwan Economic Journal on company financial statuses from 1999 to 2009 from [Kaggle](https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction) to build models that classify if a company is bankrupt or not. We will then use that model to predict if a company will bankrupt or not in order for our stakeholder, a Taiwanese hedge fund, to make better, guided decisions towards short positions.
+We will be using data from the Taiwan Economic Journal on company financial statuses from 1999 to 2009 from [Kaggle](https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction) to build binary classification models that classifies a company as bankrupt or not. We will then use that model to predict on unseen data to see if a company will bankrupt or not in order for our stakeholder, a Taiwanese hedge fund, to make better, guided decisions towards short positions.
 
 ## Business Problem
 
