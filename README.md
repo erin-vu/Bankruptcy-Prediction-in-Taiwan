@@ -42,7 +42,7 @@ Further analysis we could pursue to better predict bankruptcy in Taiwan:
 - Add data and information such as dates of bankruptcy
 - Continue to think of new parameters and different modelling strategies 
 
-# 7. For More Information
+## For More Information
 
 Please review our full analysis in our [Jupyter Notebook](https://github.com/ekvu/phase-3_project/blob/main/Final%20Notebook.ipynb) and our [presentation](https://github.com/ekvu/phase-3_project/blob/main/Taiwanese_Bankruptcy_Presentation.pdf). The data can be found in [data](https://github.com/ekvu/phase-3_project/tree/main/data), images in [images](https://github.com/ekvu/phase-3_project/tree/main/images), and our working notebooks in [working_notebooks](https://github.com/ekvu/phase-3_project/tree/main/working_notebooks).
 
@@ -51,3 +51,12 @@ For additional questions, please contact:
 Ramil Chaimongkolbutr at ramil.ming@gmail.com, [LinkedIn](linkedin.com/in/ramilc), and [GitHub](github.com/ramilchai)
 
 Erin Vu at erin.vu94@gmail.com and [LinkedIn](linkedin.com/in/erin-vu)
+
+## Repository Structure
+ 
+    ├── data
+    ├── images
+    ├── working_notebooks
+    ├── README.md
+    ├── Taiwanese_Bankruptcy_Presentation.pdf
+    └── Final_Notebook.ipynb
