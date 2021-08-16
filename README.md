@@ -44,7 +44,7 @@ Further analysis we could pursue to better predict bankruptcy in Taiwan:
 
 ## For More Information
 
-Please review our full analysis in our [Jupyter Notebook](https://github.com/ekvu/phase-3_project/blob/main/Final%20Notebook.ipynb) and our [presentation](https://github.com/ekvu/phase-3_project/blob/main/Taiwanese_Bankruptcy_Presentation.pdf). The data can be found in [data](https://github.com/ekvu/phase-3_project/tree/main/data), images in [images](https://github.com/ekvu/phase-3_project/tree/main/images), and our working notebooks in [working_notebooks](https://github.com/ekvu/phase-3_project/tree/main/working_notebooks).
+Please review our full analysis in our [Jupyter Notebook](https://github.com/ekvu/Bankruptcy-Prediction-in-Taiwan/blob/main/Taiwanese_Bankruptcy_Final_Notebook.ipynb) and our [presentation](https://github.com/ekvu/phase-3_project/blob/main/Taiwanese_Bankruptcy_Presentation.pdf). The data can be found in [data](https://github.com/ekvu/phase-3_project/tree/main/data), images in [images](https://github.com/ekvu/phase-3_project/tree/main/images), and our working notebooks in [working_notebooks](https://github.com/ekvu/phase-3_project/tree/main/working_notebooks).
 
 For additional questions, please contact:
 
